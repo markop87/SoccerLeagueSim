@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1672279340 source:d:\marek\cpp\soccerleaguesim\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<sstream>
+	<iomanip>
+	<random>
+	<algorithm>
+
+1667606481 d:\marek\cpp\soccerleaguesim\func.h
+	<string>
+	<vector>
+
+1667606684 source:d:\marek\cpp\soccerleaguesim\func.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<sstream>
+	<iomanip>
+	<random>
+	<algorithm>
+	"func.h"
+
